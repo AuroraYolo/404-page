@@ -1,6 +1,6 @@
 ![预览 / Preview](Preview.png)
 
-# 引用资源 / Use-resource
+# 使用资源 / Use-resource
 [muicss](https://www.muicss.com)  
 [normalize](http://necolas.github.io/normalize.css)  
 [iType](https://ityped.surge.sh)  
