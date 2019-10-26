@@ -2,7 +2,7 @@
 - 体积小巧，完整版需要 75.3KB，轻量压缩版仅需 1.5KB。
 - tiny size, The maximum is only 75.3KB, and the minimum is 1.5KB.
 - 开箱即用，无需多余配置。
-- Ready to use, no extra options required.
+- ready to use, no extra options required.
 
 # 使用资源 / Use-resource
 [muicss](https://www.muicss.com)  
